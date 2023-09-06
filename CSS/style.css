@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to bottom left, #ff99cc 0%, #ffcc66 100%);
+    background-attachment: fixed;
+    height: 75vh;
+}
+.container{
+    width:75%;
+}
+.card-outline{
+    border: 1px solid #ff99cc ;
+}
+.shadow{
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.btn-pink{
+    background-color:#ffcc66; 
+    font-style: italic;
+    font-size: 1.2rem; 
+}
+.btn-pink:hover{
+    background-color: #ff99cc;
+}
+.mt-6{
+    margin-top: 10rem;
+}
